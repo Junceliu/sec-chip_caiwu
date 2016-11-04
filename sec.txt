@@ -1,0 +1,2 @@
+#junce mkdir sec.txt
+123456
